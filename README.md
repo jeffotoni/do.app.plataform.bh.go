@@ -1,0 +1,1 @@
+# do.app.plataform.bh.go
