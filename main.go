@@ -13,5 +13,5 @@ func main() {
 
 func Ping(w http.ResponseWriter, r *http.Request) {
 	w.WriteHeader(http.StatusOK)
-	w.Write([]byte("pong"))
+	w.Write([]byte("ping pong...2020"))
 }
